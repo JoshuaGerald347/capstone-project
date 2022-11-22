@@ -1,4 +1,6 @@
 # capstone-project
 CAPSTONE PROJECT PURWADHIKA JCDSOL-08
 
+Joshua Gerald Javia
+
 MENGENAI DATA KARYAWAN
